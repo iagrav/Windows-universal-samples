@@ -6,6 +6,12 @@
 
 This repo contains the samples that demonstrate the API usage patterns for the Universal Windows Platform (UWP) in the Windows Software Development Kit (SDK) for Windows 10. These code samples were created with the Universal Windows Platform templates available in Visual Studio, and are designed to run on desktop, mobile, and future devices that support the Universal Windows Platform.
 
+> **Note:** If you are unfamiliar with Git and GitHub, you can download the entire collection as a 
+> [ZIP file](https://github.com/Microsoft/Windows-universal-samples/archive/master.zip), but be 
+> sure to unzip everything to access shared dependencies. For more info on working with the ZIP file, 
+> the samples collection, and GitHub, see [Get the UWP samples from GitHub](https://aka.ms/ovu2uq). 
+> For more samples, see the [Samples portal](https://aka.ms/winsamples) on the Windows Dev Center. 
+
 ## Universal Windows Platform development
 
 These samples require Visual Studio 2015 and the Windows Software Development Kit (SDK) for Windows 10 to build, test, and deploy your Universal Windows Platform apps.
@@ -153,7 +159,7 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/3DPrinting">3D Printing</a></td>
   <td><a href="Samples/3DPrintingFromUnity">3D Printing from Unity</a></td>
-  <td><a href="Samples/XamlAutoSuggestBox">AutoSuggestBox migration</a></td>
+  <td><a href="Samples/XamlAutoSuggestBox">AutoSuggestBox</a></td>
  </tr>
  <tr>
   <td><a href="Samples/XamlBottomUpList">Bottom-up list (XAML)</a></td>
@@ -294,46 +300,45 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
  <tr>
   <td><a href="Samples/BluetoothLEClient">Bluetooth Low Energy client</a></td>
-  <td><a href="Samples/CameraBarcodeScanner">Camera barcode scanner</a></td>
   <td><a href="Samples/CashDrawer">Cash drawer</a></td>
+  <td><a href="Samples/Compass">Compass</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/Compass">Compass</a></td>
   <td><a href="Samples/CustomHidDeviceAccess">Custom HID device</a></td>
   <td><a href="Samples/CustomSensors">Custom sensors</a></td>
+  <td><a href="Samples/CustomSerialDeviceAccess">Custom serial device</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CustomSerialDeviceAccess">Custom serial device</a></td>
   <td><a href="Samples/CustomUsbDeviceAccess">Custom USB device</a></td>
   <td><a href="Samples/DeviceEnumerationAndPairing">Device enumeration and pairing</a></td>
+  <td><a href="Samples/IoT-GPIO">General Purpose Input/Output (GPIO)</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/IoT-GPIO">General Purpose Input/Output (GPIO)</a></td>
   <td><a href="Samples/Gyrometer">Gyrometer</a></td>
   <td><a href="Samples/Inclinometer">Inclinometer</a></td>
+  <td><a href="Samples/IoT-I2C">Inter-Integrated Circuit (I2C)</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/IoT-I2C">Inter-Integrated Circuit (I2C)</a></td>
   <td><a href="Samples/LampDevice">Lamp device</a></td>
   <td><a href="Samples/LightSensor">Light sensor</a></td>
+  <td><a href="Samples/MagneticStripeReader">Magnetic stripe reader</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/MagneticStripeReader">Magnetic stripe reader</a></td>
   <td><a href="Samples/Nfc">Near field communication (NFC)</a></td>
   <td><a href="Samples/NfcProvisioner">NFC enterprise provisioner</a></td>
+  <td><a href="Samples/OrientationSensor">Orientation sensor</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/OrientationSensor">Orientation sensor</a></td>
   <td><a href="Samples/Pedometer">Pedometer</a></td>
   <td><a href="Samples/PosPrinter">POS printer</a></td>
+  <td><a href="Samples/ProximitySensor">Proximity sensor</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/ProximitySensor">Proximity sensor</a></td>
   <td><a href="Samples/RadialController">Radial controller</a></td>
   <td><a href="Samples/RelativeInclinometer">Relative inclinometer</a></td>
+  <td><a href="Samples/SerialArduino">Serial Arduino</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/SerialArduino">Serial Arduino</a></td>
   <td><a href="Samples/IoT-SPI">Serial Peripheral Interface (SPI)</a></td>
   <td><a href="Samples/SimpleOrientationSensor">Simple orientation sensor</a></td>
  </tr>
